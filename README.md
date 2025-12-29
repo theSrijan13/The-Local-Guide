@@ -234,5 +234,3 @@ See the `screenshots/` folder for:
 ---
 
 **Made with 🍛 for Delhi food lovers**
-
-**For Kiro CLI Challenge | December 2024**
